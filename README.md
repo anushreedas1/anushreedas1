@@ -72,7 +72,7 @@
 <h2 align="center">🌟 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/anushreedas1/ai-resume-checker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anushreedas1&repo=ai-resume-checker&theme=react&show_owner=true"/></a>
+  <a href="https://github.com/anushreedas1/VibeNet-Social-Network"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anushreedas1&repo=VibeNet-Social-Network&theme=react&show_owner=true"/></a>
   <a href="https://github.com/anushreedas1/sign-recognition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anushreedas1&repo=sign-recognition&theme=react&show_owner=true"/></a>
 </p>
 
