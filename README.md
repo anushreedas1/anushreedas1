@@ -57,8 +57,9 @@ I’m **Anushree Das**, a software engineer who enjoys turning ideas into useful
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anushreedas1&show_icons=true&theme=react&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushreedas1&layout=compact&theme=react&hide_border=true" alt="Most used languages on GitHub" />
+  
+[🗂️ Explore my repositories](https://github.com/anushreedas1?tab=repositories) · [📈 View my contribution activity](https://github.com/anushreedas1)
+  
 </div>
 
 ---
