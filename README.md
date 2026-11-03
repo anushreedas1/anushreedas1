@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=900&color=36BCF7&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Anushree+Das+%F0%9F%91%8B;Software+Engineer;Building+thoughtful+software;Always+learning%2C+always+building" alt="Hi, I'm Anushree Das — software engineer" />
 
 <p>
-  <a href="https://github.com/anushreedas1?tab=followers"><img src="https://img.shields.io/github/followers/anushreedas1?label=Followers&style=for-the-badge&color=36BCF7" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=anushreedas1&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/badge/Open_to-SDE_Roles-22C55E?style=for-the-badge" alt="Open to SDE roles" />
 </p>
